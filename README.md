@@ -15,8 +15,7 @@ I'm Stavros. I am an iOS Engineer, living in Montreal, Quebec.
 &nbsp;
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" title="GraphQL" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-" alt="Postman" title="Postman" height="25" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" title="Postman" height="25" />
 &nbsp;
 
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
