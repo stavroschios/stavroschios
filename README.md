@@ -18,3 +18,4 @@ I'm Stavros. I am an iOS Engineer, living in Montreal, Quebec.
 ![](https://media.giphy.com/media/aWnLX2UT0pD4hbRjVQ/giphy.gif)
 ![](https://media.giphy.com/media/hyTPti6hrwhNXppkQG/giphy.gif)
 ![](https://media.giphy.com/media/JiGdXjLr8TOs1VoAL2/giphy.gif)
+![](https://media.giphy.com/media/CpneEMJWWzTKkxbrA2/giphy.gif
