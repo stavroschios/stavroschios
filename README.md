@@ -12,7 +12,9 @@ I'm Stavros. I am an iOS Engineer, living in Montreal, Quebec.
 
 ![Alt text](https://media.giphy.com/media/MzbxZDABazz06dmqTx/giphy.gif)
 ![Alt text](https://media.giphy.com/media/h6CcF2oCtxKGOgL9lA/giphy.gif)
+![](https://media.giphy.com/media/G9m84e5lMVfSDGcItf/giphy.gif)
 ![Alt text](https://media.giphy.com/media/g78iP4s12zAnuJrMbs/giphy.gif)
+
 ![](https://media.giphy.com/media/CpneEMJWWzTKkxbrA2/giphy.gif)
 ![](https://media.giphy.com/media/c0yUnj2VOIf3BgpwcD/giphy.gif)
 ![](https://media.giphy.com/media/lDVdkcaLfGRkCKuS9m/giphy.gif)
