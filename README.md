@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Stavros. I am an iOS Engineer, living in Montreal, Quebec.
+I'm Stavros. I am an iOS Developer.
 
 ## 👾 🛠  Technologies and tools
 
